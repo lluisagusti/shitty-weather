@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import { Search } from 'lucide-react';
-import { Input } from "../ui/Input";
-import { Button } from "../ui/Button";
+// import { Search } from 'lucide-react';
+// import { Input } from "../ui/Input";
+// import { Button } from "../ui/Button";
 
 import sunnyIcon from '../ui/placeholders/weather-sunny.png';
 import rainIcon from '../ui/placeholders/weather-rain.png';
