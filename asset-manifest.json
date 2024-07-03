@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/skynetclock/static/css/main.89ee1b4c.css",
+    "main.js": "/skynetclock/static/js/main.f4a56cce.js",
+    "static/js/215.a4c12be1.chunk.js": "/skynetclock/static/js/215.a4c12be1.chunk.js",
+    "static/media/weather-windy.png": "/skynetclock/static/media/weather-windy.281a5d8eb0aae81dd919.png",
+    "static/media/weather-partly-snow.png": "/skynetclock/static/media/weather-partly-snow.5f00d4a8ecc4f6b8fd36.png",
+    "static/media/weather-partly-sunny.png": "/skynetclock/static/media/weather-partly-sunny.def356e5c6cb224b1406.png",
+    "static/media/weather-rain.png": "/skynetclock/static/media/weather-rain.e76b6248315f39d9afa1.png",
+    "static/media/weather-partly-rainy.png": "/skynetclock/static/media/weather-partly-rainy.e217ddc9b0cb1a55f237.png",
+    "static/media/weather-snow.png": "/skynetclock/static/media/weather-snow.a01de6ef6f84d61d560f.png",
+    "static/media/weather-sunny.png": "/skynetclock/static/media/weather-sunny.877961999da51f56ba57.png",
+    "static/media/weather-cloudy.png": "/skynetclock/static/media/weather-cloudy.331f1e0ee206b8d716b2.png",
+    "index.html": "/skynetclock/index.html",
+    "main.89ee1b4c.css.map": "/skynetclock/static/css/main.89ee1b4c.css.map",
+    "main.f4a56cce.js.map": "/skynetclock/static/js/main.f4a56cce.js.map",
+    "215.a4c12be1.chunk.js.map": "/skynetclock/static/js/215.a4c12be1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ee1b4c.css",
+    "static/js/main.f4a56cce.js"
+  ]
+}
