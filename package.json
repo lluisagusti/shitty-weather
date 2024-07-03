@@ -1,6 +1,6 @@
 {
   "homepage": "https://lluisagusti.github.io/shitty-weather",
-  "name": "shittyweather",
+  "name": "shitty-weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
