@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shitty-weather/static/css/main.89ee1b4c.css",
-    "main.js": "/shitty-weather/static/js/main.006563b6.js",
-    "static/js/215.140d4bcc.chunk.js": "/shitty-weather/static/js/215.140d4bcc.chunk.js",
+    "main.js": "/shitty-weather/static/js/main.f1dfe8a3.js",
+    "static/js/215.05330716.chunk.js": "/shitty-weather/static/js/215.05330716.chunk.js",
     "static/media/weather-windy.png": "/shitty-weather/static/media/weather-windy.281a5d8eb0aae81dd919.png",
     "static/media/weather-partly-snow.png": "/shitty-weather/static/media/weather-partly-snow.5f00d4a8ecc4f6b8fd36.png",
     "static/media/weather-partly-sunny.png": "/shitty-weather/static/media/weather-partly-sunny.def356e5c6cb224b1406.png",
@@ -13,11 +13,11 @@
     "static/media/weather-cloudy.png": "/shitty-weather/static/media/weather-cloudy.331f1e0ee206b8d716b2.png",
     "index.html": "/shitty-weather/index.html",
     "main.89ee1b4c.css.map": "/shitty-weather/static/css/main.89ee1b4c.css.map",
-    "main.006563b6.js.map": "/shitty-weather/static/js/main.006563b6.js.map",
-    "215.140d4bcc.chunk.js.map": "/shitty-weather/static/js/215.140d4bcc.chunk.js.map"
+    "main.f1dfe8a3.js.map": "/shitty-weather/static/js/main.f1dfe8a3.js.map",
+    "215.05330716.chunk.js.map": "/shitty-weather/static/js/215.05330716.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ee1b4c.css",
-    "static/js/main.006563b6.js"
+    "static/js/main.f1dfe8a3.js"
   ]
 }
